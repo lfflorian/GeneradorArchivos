@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generadorArchivosPV", "generadorArchivosPV\generadorArchivosPV.csproj", "{DDD8E43D-76B4-457E-912A-832B65F52755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppGeneradorPV", "AppGeneradorPV\AppGeneradorPV.csproj", "{05F18AB1-B4C6-4527-AAE0-187C1FA72F7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDD8E43D-76B4-457E-912A-832B65F52755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD8E43D-76B4-457E-912A-832B65F52755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD8E43D-76B4-457E-912A-832B65F52755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD8E43D-76B4-457E-912A-832B65F52755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F18AB1-B4C6-4527-AAE0-187C1FA72F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F18AB1-B4C6-4527-AAE0-187C1FA72F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F18AB1-B4C6-4527-AAE0-187C1FA72F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F18AB1-B4C6-4527-AAE0-187C1FA72F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9FEB5EF-31CA-40D6-9873-A08CCD43583C}
+	EndGlobalSection
+EndGlobal
